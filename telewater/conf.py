@@ -18,15 +18,15 @@ class Config(BaseModel):
         return val
 
 
-START = """I am alive!"""
+START = """Hello {} I Am Disney Team Image Watermarker Bot ♥ Project By @Disneygrou. \n Check /help To Assist You Better. \n My Developer @Doreamonfans1. """
 
 HELP = """
-Using the bot is very simple. Just send a photo, video or gif to the bot. The bot will reply with the watermarked media.
+Using Me Is Very Simple😉. Just Send ME A Photo, Video Or Gif. I Will Reply With The Watermarked Media.
 
 The bot commands `/set` and `/get` can set and get the value of the configuration variables. The commands are simple and intuitive. The bot will show you the usage if you send an incorrect argument.
 
-Syntax for `/set` ➜  `/set key: value`
-Syntax for `/get` ➜  `/get key`
+/set ➜  /set key: Disney Team
+/get ➜  /get key: Disney Team
 
 """
 
