@@ -1,10 +1,10 @@
 {
-  "name": "telewater",
+  "name": "Image-watermark-adder",
   "stack": "container",
   "description": "A telegram bot that applies watermark on images, gifs, and videos.",
   "keywords": ["telegram", "watermark", "bot"],
-  "website": "https://aahnik.dev",
-  "repository": "https://github.com/aahnik/telewater",
+  "website": "t.me/disneygrou",
+  "repository": "https://github.com/Disneyteam77/Image-watermark-adder",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png",
 
   "env": {
@@ -27,7 +27,7 @@
     },
 
     "BOT_USERNAME": {
-      "description": "Create a new bot with BotFather and put token here",
+      "description": "Create a new bot with BotFather and send the usernme",
       "value": "botusername",
       "required": true
     }
